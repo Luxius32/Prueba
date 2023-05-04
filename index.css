@@ -1,0 +1,12 @@
+.titulo{
+    color: red;
+}
+
+.imagen{
+    width: 200px; height: 200px; margin-bottom: 30px;
+ }
+
+ .subtitulo{
+    color: blueviolet;
+    margin-bottom: -10px;
+ }
